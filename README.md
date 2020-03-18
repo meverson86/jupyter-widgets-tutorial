@@ -2,7 +2,9 @@
 
 ## Tutorial, SciPy 2019
 
-# https://github.com/jupyter-widgets/tutorial
+### https://github.com/jupyter-widgets/tutorial
+
+The video recorded from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=HaSpqsKaRbo).
 
 # Installation
 
